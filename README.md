@@ -295,53 +295,66 @@ plt.show()
 
 1. Read 'Eagle_in_Flight.jpg' as grayscale and display:
 
-   *(paste output image here)*
+<img width="622" height="506" alt="image" src="https://github.com/user-attachments/assets/cdb30934-ee63-432e-b0f9-5b5dfec3aa1e" />
+
 
 2. Save image as PNG and display:
 
-   *(paste output image here)*
+<img width="962" height="762" alt="image" src="https://github.com/user-attachments/assets/1c634332-9fcb-4359-9bbb-acbc5ad65039" />
+
 
 3. Cropped image:
 
-   *(paste output image here)*
+<img width="438" height="517" alt="image" src="https://github.com/user-attachments/assets/81861b1e-9009-4b41-8f74-c0451d21866e" />
+
 
 4. Resize and flip horizontally:
 
-   *(paste output image here)*
+<img width="438" height="507" alt="image" src="https://github.com/user-attachments/assets/811d9b25-309e-464e-88e7-83c5f6eb3225" />
+
 
 5. Read 'Apollo-11-launch.jpg' and display the final annotated image:
 
-   *(paste output image here)*
+<img width="651" height="390" alt="image" src="https://github.com/user-attachments/assets/c209acd1-a7cd-462c-be70-0bd44688f3b8" />
+
+<img width="842" height="501" alt="image" src="https://github.com/user-attachments/assets/9fb4428e-fbd8-41f2-b628-5a31e7729197" />
+
 
 **ii) Adjust Image Brightness.**
 
 1. Create brighter and darker images and display:
 
-   *(paste output image here)*
+<img width="865" height="211" alt="image" src="https://github.com/user-attachments/assets/cbfb1187-bb57-487d-b1a1-d952e3921f17" />
+
 
 **iii) Modify Image Contrast.**
 
 1. Modify contrast using scaling factors 0.8, 1.1 and 1.2:
 
-   *(paste output image here)*
+<img width="857" height="177" alt="image" src="https://github.com/user-attachments/assets/926b70f2-f9cb-498c-93ee-cee414572888" />
+
 
 **iv) Split and merge the colour channels (B, G, R and H, S, V).**
 
 1. Split 'boy.jpg' into B, G, R components and display:
 
-   *(paste output image here)*
+   <img width="851" height="170" alt="image" src="https://github.com/user-attachments/assets/6296e172-1d9e-4824-8513-b812fd5efdb3" />
+
 
 2. Merge the R, G, B channels and display:
 
-   *(paste output image here)*
+<img width="855" height="322" alt="image" src="https://github.com/user-attachments/assets/995f5338-342d-4eef-a375-9aaf5fe443af" />
+
 
 3. Split the image into H, S, V components and display:
 
-   *(paste output image here)*
+<img width="851" height="177" alt="image" src="https://github.com/user-attachments/assets/80eb2c14-f5d0-4207-88ff-c05abb0744aa" />
+
 
 4. Merge the H, S, V channels and display:
 
-   *(paste output image here)*
+<img width="851" height="323" alt="image" src="https://github.com/user-attachments/assets/3851449d-99aa-4336-a225-e756fdb407db" />
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and the colour channels were split and merged successfully using the Python program.
